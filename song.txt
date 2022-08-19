@@ -1,11 +1,8 @@
 If you did not attempt to sign in to your account, your password may be compromised. Visit https://github.com/settings/security to create a new, strong password for your GitHub account.
 You can login to a remote Linux server without entering password in 3 simple steps using ssky-keygen and ssh-copy-id as explained in this article. ssh-keygen creates the public and private keys. ssh-copy-id copies the local-host's public key to the remote-host's authorized_keys file.
-<<<<<<< HEAD:song.txt
+
 
  Login to Remote Server Using SSH Keys. After performing the above steps, try logging into your remote sever. 
 -------------------------------------------------------------------------------------------------------
-=======
-iiii
 
-rrhe
->>>>>>> 44a62ad91410813d87f203b66a4599b720d71752:song.txt.txt
+second line
